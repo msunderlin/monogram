@@ -1,0 +1,50 @@
+.app {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  fiex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle {
+  position: relative;
+  display: flex;
+  fiex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.circle1, .circle3, .circle5 {
+  background-color: black;
+}
+.circle2, .circle4, .circle6 {
+  background-color: white;
+}
+
+.circle1 {
+  height: 175px;
+  width: 175px;
+}
+
+.circle2 {
+  height: 150px;
+  width: 150px;
+}
+
+.circle3 {
+  height: 140px;
+  width: 140px;
+}
+
+.circle4 {
+  height: 130px;
+  width: 130px;
+}
+
+.monogram {
+  font-weight: bolder;
+  font-size: 115px;
+}
+
+/*# sourceMappingURL=index.css.map */

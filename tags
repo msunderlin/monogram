@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+.app	assets/css/index.css	/^.app {$/;"	c
+.circle	assets/css/index.css	/^.circle {$/;"	c
+.circle1	assets/css/index.css	/^.circle1 {$/;"	c
+.circle1	assets/css/index.css	/^.circle1, .circle3, .circle5 {$/;"	c
+.circle2	assets/css/index.css	/^.circle2 {$/;"	c
+.circle2	assets/css/index.css	/^.circle2, .circle4, .circle6 {$/;"	c
+.circle3	assets/css/index.css	/^.circle1, .circle3, .circle5 {$/;"	c
+.circle3	assets/css/index.css	/^.circle3 {$/;"	c
+.circle4	assets/css/index.css	/^.circle2, .circle4, .circle6 {$/;"	c
+.circle4	assets/css/index.css	/^.circle4 {$/;"	c
+.circle5	assets/css/index.css	/^.circle1, .circle3, .circle5 {$/;"	c
+.circle6	assets/css/index.css	/^.circle2, .circle4, .circle6 {$/;"	c
+.monogram	assets/css/index.css	/^.monogram {$/;"	c
+body::before	index.css	/^body::before {$/;"	s

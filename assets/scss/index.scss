@@ -1,0 +1,51 @@
+.app{
+	height:100vh;
+	width:100%;
+	display:flex;
+	fiex-direction:column;
+	align-items:center;
+	justify-content:center;
+}
+
+
+.circle{
+	position:relative;
+	display:flex;
+	fiex-direction:column;
+	align-items:center;
+	justify-content:center;
+	border-radius:50%;
+	&1, &3, &5{
+		background-color:rgb(0,0,0);
+	}
+	&2, &4, &6{
+		background-color:rgb(255,255,255);
+	}
+}
+
+.circle1{
+	height:175px;
+	width:175px;
+}
+
+.circle2{
+
+	height:150px;
+	width:150px;
+}
+.circle3{
+	height:140px;
+	width:140px;
+}
+
+.circle4{
+	height:130px;
+	width:130px;
+}
+
+.monogram{
+	font-weight:bolder;
+	font-size:115px;
+}
+
+
